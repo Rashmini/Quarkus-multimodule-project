@@ -13,16 +13,7 @@
   <dependencies>
     <dependency>
       <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-resteasy</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
       <artifactId>quarkus-undertow</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-narayana-jta</artifactId>
-      <version>${quarkus.version}</version>
     </dependency>
     <dependency>
       <groupId>org.glassfish</groupId>

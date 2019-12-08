@@ -11,10 +11,5 @@
   <artifactId>quarkus-quickstart-multimodule-html</artifactId>
   <version>1.0-SNAPSHOT</version>
   <dependencies>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-narayana-jta</artifactId>
-      <version>${quarkus.version}</version>
-    </dependency>
   </dependencies>
 </project>

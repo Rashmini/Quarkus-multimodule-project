@@ -31,11 +31,6 @@
       <artifactId>rest-assured</artifactId>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-narayana-jta</artifactId>
-      <version>${quarkus.version}</version>
-    </dependency>
   </dependencies>
   <build>
     <plugins>
